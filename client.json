@@ -34,7 +34,7 @@
         "modules": [
             {"name": "com.appcelerator.apm", "platform": "android", "version": "1.0.8"},
             {"name": "com.appcelerator.apm", "platform": "ios", "version": "1.0.8"},
-            {"name": "soasta", "platform": "commonjs", "version": "3.0.2"},
+            {"name": "soasta", "platform": "commonjs", "version": "6937.119"},
         ]
     }
 }
