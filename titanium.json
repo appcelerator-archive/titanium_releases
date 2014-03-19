@@ -1,10 +1,10 @@
 {
   "name": "titanium",
   "description": "Appcelerator Titanium Client",
-  "version": "3.2.2.GA",
+  "version": "3.2.3.Alpha1",
   "dependencies": {
     "sdk": {
-        "version": "3.2.2.GA",
+        "version": "3.2.3.Alpha1",
         "modules": [
             {"name": "ti.facebook", "platform": "android", "version": "3.0.2"},
             {"name": "ti.facebook", "platform": "ios", "version": "3.1.1"},
@@ -17,14 +17,14 @@
         ]
     },
     "studio.titanium": {
-        "version": "3.2.1.201402041146",
+        "version": "3.2.3.vXXXX",
         "npm-packages": [
             {"name": "alloy", "version": "1.3.1"},
             {"name": "titanium", "version": "3.2.1"},
         ]
     },
     "studio.appcelerator": {
-        "version": "3.2.1.201402061120",
+        "version": "3.2.3.vXXXX",
         "npm-packages": [
             {"name": "alloy", "version": "1.3.1"},
             {"name": "titanium", "version": "3.2.1"},
