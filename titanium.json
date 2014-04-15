@@ -1,7 +1,7 @@
 {
   "name": "titanium",
   "description": "Appcelerator Titanium Client",
-  "version": "3.2.3.Alpha",
+  "version": "3.2.3.Beta",
   "dependencies": {
     "sdk": {
         "version": "3.2.3.v20140411160129",
