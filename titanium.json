@@ -17,18 +17,18 @@
         ]
     },
     "studioTitanium": {
-        "version": "3.2.3.201404101138",
+        "version": "3.2.3.201404162017",
         "npmPackages": [
             {"name": "alloy", "version": "1.3.1"},
             {"name": "titanium", "version": "3.2.3-beta"}
         ]
     },
     "studioAppcelerator": {
-        "version": "3.2.3.201404111117",
+        "version": "3.2.3.201404151910",
         "npmPackages": [
             {"name": "alloy", "version": "1.3.1"},
             {"name": "titanium", "version": "3.2.3-beta"},
-            {"name": "titanium-code-processor", "version": "1.1.1-alpha"},
+            {"name": "titanium-code-processor", "version": "1.1.1-beta1"},
             {"name": "liveview", "version": "1.0.4"}
         ],
         "modules": [
