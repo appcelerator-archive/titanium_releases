@@ -17,14 +17,14 @@
         ]
     },
     "studioTitanium": {
-        "version": "3.3.0.vXXXX",
+        "version": "3.3.0.201405161250",
         "npmPackages": [
             {"name": "alloy", "version": "1.4.0-alpha"},
             {"name": "titanium", "version": "3.3.0-alpha"}
         ]
     },
     "studioAppcelerator": {
-        "version": "3.3.0.vXXXX",
+        "version": "3.3.0.201405161313",
         "npmPackages": [
             {"name": "alloy", "version": "1.4.0-alpha"},
             {"name": "titanium", "version": "3.3.0-alpha"},
