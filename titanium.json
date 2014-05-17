@@ -12,9 +12,7 @@
             {"name": "ti.cloud", "platform": "commonjs", "version": "3.2.1"},
             {"name": "ti.map", "platform": "android", "version": "2.1.4"},
             {"name": "ti.map", "platform": "ios", "version": "2.0.2"},
-            {"name": "urlSession", "platform": "ios", "version": "1.0.0"},
-            {"name": "tizen", "platform": "tizen", "version": "3.0.0"}
-        ]
+            {"name": "urlSession", "platform": "ios", "version": "1.0.0"}
     },
     "studioTitanium": {
         "version": "3.3.0.201405161250",
@@ -29,7 +27,7 @@
             {"name": "alloy", "version": "1.4.0-alpha"},
             {"name": "titanium", "version": "3.3.0-alpha2"},
             {"name": "titanium-code-processor", "version": "1.1.1-alpha"},
-            {"name": "liveview", "version": "1.0.2"}
+            {"name": "liveview", "version": "1.0.4"}
         ],
         "modules": [
             {"name": "com.appcelerator.apm", "platform": "android", "version": "1.0.8"},
