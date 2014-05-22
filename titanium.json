@@ -13,16 +13,17 @@
             {"name": "ti.map", "platform": "android", "version": "2.1.4"},
             {"name": "ti.map", "platform": "ios", "version": "2.0.2"},
             {"name": "urlSession", "platform": "ios", "version": "1.0.0"}
+        ]
     },
     "studioTitanium": {
-        "version": "3.3.0.201405161250",
+        "version": "3.3.0.201405211722",
         "npmPackages": [
             {"name": "alloy", "version": "1.4.0-alpha2"},
             {"name": "titanium", "version": "3.3.0-alpha5"}
         ]
     },
     "studioAppcelerator": {
-        "version": "3.3.0.201405161313",
+        "version": "3.3.0.201405211748",
         "npmPackages": [
             {"name": "alloy", "version": "1.4.0-alpha2"},
             {"name": "titanium", "version": "3.3.0-alpha5"},
