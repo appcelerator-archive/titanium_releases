@@ -4,7 +4,7 @@
   "version": "3.3.0.Beta",
   "dependencies": {
     "sdk": {
-        "version": "3.3.0.Beta"
+        "version": "3.3.0.v20140524224144"
         "modules": [
             {"name": "ti.facebook", "platform": "android", "version": "3.0.2"},
             {"name": "ti.facebook", "platform": "ios", "version": "3.1.1"},
@@ -18,14 +18,14 @@
     "studioTitanium": {
         "version": "3.3.0.201405211722",
         "npmPackages": [
-            {"name": "alloy", "version": "1.4.0-alpha4"},
+            {"name": "alloy", "version": "1.4.0-beta"},
             {"name": "titanium", "version": "3.3.0-beta"}
         ]
     },
     "studioAppcelerator": {
         "version": "3.3.0.201405211748",
         "npmPackages": [
-            {"name": "alloy", "version": "1.4.0-alpha4"},
+            {"name": "alloy", "version": "1.4.0-beta"},
             {"name": "titanium", "version": "3.3.0-beta"},
             {"name": "titanium-code-processor", "version": "1.1.1"},
             {"name": "liveview", "version": "1.0.4"}
