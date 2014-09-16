@@ -1,10 +1,10 @@
 {
   "name": "titanium",
   "description": "Appcelerator Titanium Client",
-  "version": "3.4.0.Beta3",
+  "version": "3.4.0.RC",
   "dependencies": {
     "sdk": {
-        "version": "3.4.0.v20140912164913",
+        "version": "3.4.0.v20140916151649",
         "modules": [
             {"name": "ti.facebook", "platform": "android", "version": "3.0.2"},
             {"name": "ti.facebook", "platform": "ios", "version": "3.1.1"},
@@ -17,17 +17,17 @@
         ]
     },
     "studioTitanium": {
-        "version": "3.4.0.201409121841",
+        "version": "3.4.0.201409131007",
         "npmPackages": [
             {"name": "alloy", "version": "1.5.0-rc2"},
-            {"name": "titanium", "version": "3.4.0-rc3"}
+            {"name": "titanium", "version": "3.4.0-rc4"}
         ]
     },
     "studioAppcelerator": {
-        "version": "3.4.0.201409121853",
+        "version": "3.4.0.201409131030",
         "npmPackages": [
             {"name": "alloy", "version": "1.5.0-rc2"},
-            {"name": "titanium", "version": "3.4.0-rc3"},
+            {"name": "titanium", "version": "3.4.0-rc4"},
             {"name": "titanium-code-processor", "version": "1.1.1"},
             {"name": "liveview", "version": "1.0.6"}
         ],
