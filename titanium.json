@@ -9,9 +9,9 @@
             {"name": "ti.facebook", "platform": "android", "version": "3.0.2"},
             {"name": "ti.facebook", "platform": "ios", "version": "3.1.1"},
             {"name": "ti.cloudpush", "platform": "android", "version": "3.3.0"},
-            {"name": "ti.cloud", "platform": "commonjs", "version": "3.2.3"},
+            {"name": "ti.cloud", "platform": "commonjs", "version": "3.2.4"},
             {"name": "ti.map", "platform": "android", "version": "2.1.4"},
-            {"name": "ti.map", "platform": "ios", "version": "2.0.1"},
+            {"name": "ti.map", "platform": "ios", "version": "2.0.3"},
             {"name": "ti.coremotion", "platform": "ios", "version": "1.0.1"},
             {"name": "urlSession", "platform": "ios", "version": "1.0.1"},
         ]
