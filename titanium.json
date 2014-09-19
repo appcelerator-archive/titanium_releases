@@ -13,20 +13,20 @@
             {"name": "ti.map", "platform": "android", "version": "2.1.4"},
             {"name": "ti.map", "platform": "ios", "version": "2.0.3"},
             {"name": "ti.coremotion", "platform": "ios", "version": "1.0.1"},
-            {"name": "urlSession", "platform": "ios", "version": "1.0.1"},
+            {"name": "urlSession", "platform": "ios", "version": "1.0.1"}
         ]
     },
     "studioTitanium": {
         "version": "3.4.0.201409161931",
         "npmPackages": [
-            {"name": "alloy", "version": "1.5.0-rc2"},
+            {"name": "alloy", "version": "1.5.0-rc3"},
             {"name": "titanium", "version": "3.4.0-rc4"}
         ]
     },
     "studioAppcelerator": {
         "version": "3.4.0.201409161950",
         "npmPackages": [
-            {"name": "alloy", "version": "1.5.0-rc2"},
+            {"name": "alloy", "version": "1.5.0-rc3"},
             {"name": "titanium", "version": "3.4.0-rc4"},
             {"name": "titanium-code-processor", "version": "1.1.1"},
             {"name": "liveview", "version": "1.0.6"}
