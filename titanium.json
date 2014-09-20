@@ -1,10 +1,10 @@
 {
   "name": "titanium",
   "description": "Appcelerator Titanium Client",
-  "version": "3.4.0.RC",
+  "version": "3.4.0.RC2",
   "dependencies": {
     "sdk": {
-        "version": "3.4.0.v20140916151649",
+        "version": "3.4.0.v20140919162515",
         "modules": [
             {"name": "ti.facebook", "platform": "android", "version": "3.0.2"},
             {"name": "ti.facebook", "platform": "ios", "version": "3.1.1"},
@@ -13,6 +13,7 @@
             {"name": "ti.map", "platform": "android", "version": "2.1.4"},
             {"name": "ti.map", "platform": "ios", "version": "2.0.3"},
             {"name": "ti.coremotion", "platform": "ios", "version": "1.0.1"},
+            {"name": "ti.touchid", "platform": "ios", "version": "1.0"},
             {"name": "urlSession", "platform": "ios", "version": "1.0.1"}
         ]
     },
