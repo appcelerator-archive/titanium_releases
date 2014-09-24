@@ -25,7 +25,7 @@
         ]
     },
     "studioAppcelerator": {
-        "version": "3.4.0.201409161950",
+        "version": "3.4.0.201409231834",
         "npmPackages": [
             {"name": "alloy", "version": "1.5.0-rc3"},
             {"name": "titanium", "version": "3.4.0-rc4"},
