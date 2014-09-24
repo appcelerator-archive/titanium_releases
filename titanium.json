@@ -20,14 +20,14 @@
     "studioTitanium": {
         "version": "3.4.0.201409161931",
         "npmPackages": [
-            {"name": "alloy", "version": "1.5.0-rc3"},
+            {"name": "alloy", "version": "1.5.0-rc5"},
             {"name": "titanium", "version": "3.4.0-rc4"}
         ]
     },
     "studioAppcelerator": {
         "version": "3.4.0.201409231834",
         "npmPackages": [
-            {"name": "alloy", "version": "1.5.0-rc3"},
+            {"name": "alloy", "version": "1.5.0-rc5"},
             {"name": "titanium", "version": "3.4.0-rc4"},
             {"name": "titanium-code-processor", "version": "1.1.1"},
             {"name": "liveview", "version": "1.0.6"}
