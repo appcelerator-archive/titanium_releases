@@ -11,7 +11,7 @@
             {"name": "ti.cloudpush", "platform": "android", "version": "3.3.0"},
             {"name": "ti.cloud", "platform": "commonjs", "version": "3.2.5"},
             {"name": "ti.map", "platform": "android", "version": "2.1.4"},
-            {"name": "ti.map", "platform": "ios", "version": "2.0.3"},
+            {"name": "ti.map", "platform": "ios", "version": "2.0.4"},
             {"name": "ti.coremotion", "platform": "ios", "version": "1.0.1"},
             {"name": "urlSession", "platform": "ios", "version": "1.0.1"},
             {"name": "ti.touchid", "platform": "ios", "version": "1.0"}
