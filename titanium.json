@@ -1,10 +1,10 @@
 {
   "name": "titanium",
   "description": "Appcelerator Titanium Client",
-  "version": "3.5.0.Beta",
+  "version": "3.5.0.GA",
   "dependencies": {
     "sdk": {
-        "version": "3.5.0.Beta",
+        "version": "3.5.0.GA",
         "modules": [
             {"name": "ti.facebook", "platform": "android", "version": "3.0.3"},
             {"name": "ti.facebook", "platform": "ios", "version": "3.2.0"},
