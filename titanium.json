@@ -37,6 +37,20 @@
             {"name": "com.appcelerator.apm", "platform": "ios", "version": "1.1.1"},
             {"name": "soasta", "platform": "commonjs", "version": "6937.119"}
         ]
+    },
+    "dashboard": {
+        "modules": [
+            {"name": "appcelerator.encrypteddatabase", "git-url": "https://github.com/appcelerator-modules/appcelerator.encrypteddatabase.git", "platform": "android", "version": "1.0.4"},
+            {"name": "appcelerator.encrypteddatabase", "git-url": "https://github.com/appcelerator-modules/appcelerator.encrypteddatabase.git", "platform": "ios", "version": "1.0.4"},
+            {"name": "appcelerator.https", "git-url": "https://github.com/appcelerator-modules/appcelerator.https.git", "platform": "android", "version": "1.1.1"},
+            {"name": "appcelerator.https", "git-url": "https://github.com/appcelerator-modules/appcelerator.https.git", "platform": "ios", "version": "1.1.1"},
+            {"name": "ti.geofence", "git-url": "https://github.com/appcelerator-modules/ti.geofence.git", "platform": "android", "version": "1.1.2"},
+            {"name": "ti.geofence", "git-url": "https://github.com/appcelerator-modules/ti.geofence.git", "platform": "ios", "version": "1.1.3"},
+            {"name": "ti.ldap", "git-url": "https://github.com/appcelerator-modules/ti.ldap.git", "platform": "android", "version": "1.1.1"},
+            {"name": "ti.ldap", "git-url": "https://github.com/appcelerator-modules/ti.ldap.git", "platform": "ios", "version": "1.1.1"},
+            {"name": "ti.crypto", "git-url": "https://github.com/appcelerator-modules/ti.crypto.git", "platform": "android", "version": "2.0.1"},
+            {"name": "ti.crypto", "git-url": "https://github.com/appcelerator-modules/ti.crypto.git", "platform": "ios", "version": "1.3.0"}
+        ]      
     }
     "samples": [
       {"name": "KitchenSink", "git-url": "https://github.com/appcelerator/KitchenSink.git", "version": "3.5.0"},
