@@ -38,5 +38,13 @@
             {"name": "soasta", "platform": "commonjs", "version": "6937.119"}
         ]
     }
+    "samples": [
+      {"name": "KitchenSink", "git-url": "https://github.com/appcelerator/KitchenSink.git", "version": "3.5.0"},
+      {"name": "RSS", "git-url": "https://github.com/appcelerator-developer-relations/Sample.RSS.git", "version": "1.1.0"},
+      {"name": "Field-Service-App", "git-url": "https://github.com/appcelerator/Field-Service-App.git", "version": "1.0"},
+      {"name": "Todo", "git-url": "https://github.com/appcelerator-developer-relations/Sample.Todo.git", "version": "1.0"},
+      {"name": "KitchenSink", "git-url": "https://github.com/appcelerator/KitchenSinkNook.git", "version": "1.0"},
+      {"name": "Mapping", "git-url": "https://github.com/appcelerator-developer-relations/Sample.Mapping.git", "version": "1.0"}
+    ]
   }
 }
