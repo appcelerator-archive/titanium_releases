@@ -4,7 +4,7 @@
   "version": "3.5.0.GA",
   "dependencies": {
     "sdk": {
-        "version": "3.5.0.GA",
+        "version": "3.5.1.GA",
         "modules": [
             {"name": "ti.facebook", "platform": "android", "version": "4.0.0"},
             {"name": "ti.facebook", "platform": "ios", "version": "4.0.0"},
