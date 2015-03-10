@@ -6,8 +6,8 @@
     "sdk": {
         "version": "3.5.0.GA",
         "modules": [
-            {"name": "ti.facebook", "platform": "android", "version": "3.0.3"},
-            {"name": "ti.facebook", "platform": "ios", "version": "3.2.0"},
+            {"name": "ti.facebook", "platform": "android", "version": "4.0.0"},
+            {"name": "ti.facebook", "platform": "ios", "version": "4.0.0"},
             {"name": "ti.cloudpush", "platform": "android", "version": "3.3.7"},
             {"name": "ti.cloud", "platform": "commonjs", "version": "3.2.7"},
             {"name": "ti.map", "platform": "android", "version": "2.2.3"},
