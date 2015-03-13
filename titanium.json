@@ -6,7 +6,7 @@
     "sdk": {
         "version": "3.4.0.Alpha1",
         "modules": [
-            {"name": "ti.facebook", "platform": "android", "version": "4.0.0"},
+            {"name": "ti.facebook", "platform": "android", "version": "4.0.1"},
             {"name": "ti.facebook", "platform": "ios", "version": "4.0.0"},
             {"name": "ti.cloudpush", "platform": "android", "version": "3.3.8"},
             {"name": "ti.cloud", "platform": "commonjs", "version": "3.2.8"},
